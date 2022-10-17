@@ -22,5 +22,3 @@ function merge(left, right) {
   }
   return [...result, ...left, ...right];
 }
-
-console.log(mergeSort([15, 66, 70, -11, 1, 22, 33, 102, 122]));
