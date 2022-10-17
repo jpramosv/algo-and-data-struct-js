@@ -29,5 +29,3 @@ function anagram(stringA, stringB) {
 
   return true;
 }
-
-console.log(anagram("joao   ", "a joo"));
