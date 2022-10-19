@@ -8,8 +8,6 @@ function buildCharMap(str) {
     }
   }
 
-  console.log(charMap);
-
   return charMap;
 }
 
