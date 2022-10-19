@@ -6,7 +6,6 @@ function bubbleSort(arr) {
       }
     }
   }
-  return console.log(arr);
 }
 
 function bubble(arr) {
@@ -17,7 +16,6 @@ function bubble(arr) {
       }
     }
   }
-  return console.log(arr);
 }
 
 bubble([5, 1, 4, 10, 3, 2, 6, -1, -6, -10]);
