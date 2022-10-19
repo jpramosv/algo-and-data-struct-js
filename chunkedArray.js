@@ -9,7 +9,7 @@ function chucked(arr, size) {
     } else last.push(element);
   }
 
-  return console.log(chunked);
+  return chunked;
 }
 
 chucked([1, 2, 3, 5, 6, 7, 8], 3);
