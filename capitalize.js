@@ -19,7 +19,7 @@ function captalizeTwo(str) {
     }
   }
 
-  return console.log(result);
+  return result;
 }
 
 captalizeTwo("joao ramos vieira");
